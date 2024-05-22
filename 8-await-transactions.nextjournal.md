@@ -22,7 +22,7 @@ You need to get XTDB running before you can use it.
 ```
 
 ```clojure
-(require '[xtdb.api :as xt])
+(require [xtdb.api :as xt])
 ```
 
 # Recap
